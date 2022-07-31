@@ -15,3 +15,7 @@ The ESP32-CAM is a full-featured microcontroller with an integrated video camera
 ![App Screenshot](Images/PC_Interface.jpg)
 ![App Screenshot](Images/Smartphone_Interface.jpg)
 
+## Camera Surveilance System with Telegram Bot and Email
+
+![App Screenshot](Images/Telegram_Bot.jpg)
+![App Screenshot](Images/Email.jpg)
