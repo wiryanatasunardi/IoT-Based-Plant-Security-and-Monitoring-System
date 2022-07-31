@@ -20,7 +20,7 @@ The ESP32-CAM is a full-featured microcontroller with an integrated video camera
 
 ## System Interconnection Preview
 
-![App Screenshot](Images/System Interconnection.jpg)
+![App Screenshot](Images/System_Interconnection.jpg)
 
 ## User Interface of Blynk App in PC and Smartphone
 
