@@ -15,7 +15,13 @@ The ESP32-CAM is a full-featured microcontroller with an integrated video camera
 ![App Screenshot](Images/PC_Interface.jpg)
 ![App Screenshot](Images/Smartphone_Interface.jpg)
 
-## Camera Surveilance System with Telegram Bot and Email
+## Camera Surveillance System with Telegram Bot and Email
 
 ![App Screenshot](Images/Telegram_bot.jpg)
 ![App Screenshot](Images/Email_bot.jpg)
+
+## Project Overview
+
+IoT Based Plant Security and Monitoring System is a device intended for agriculture. This device is equipped with ESP32-CAM that has a built-in flash in it. In addition, the device also used ESP32 as the microcontroller that connects to the soil moisture sensor and DHT11 Temperature and Humidity Sensor. The soil moisture sensor that is used in the device is a capacitive soil moisture sensor. As it does not need direct electrical contact with the soil, it can be insulated from corrosion, eliminating many of the disadvantages inherent to resistive sensors.
+
+When we switch the device on, the soil moisture sensor and the temperature and humidity sensor will start to get data from around and send it to Blynk App wirelessly through WiFi so the data can be visualized as a line graph. While the sensors' data are already beyond the threshold we have set, the LED will turn from green to red. Furthermore, I have to set up the telegram bot and my email as media to send the camera capture when motion is detected around the PIR Motion Sensor.
