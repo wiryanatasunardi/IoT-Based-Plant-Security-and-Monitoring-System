@@ -46,5 +46,5 @@ When we switch the device on, the soil moisture sensor and the temperature and h
 
 ## Authors
 
--  LinkedIn  - [Wiryanata Sunardi](https://www.github.com/wiryanatasunardi)
+-  LinkedIn  - [Wiryanata Sunardi](https://www.linkedin.com/in/wiryanata/)
 -  Instagram - [wiryanatasunardi](https://www.instagram.com/wiryanatasunardi/)
